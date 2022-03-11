@@ -1,0 +1,198 @@
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\runtimes\win-x86\native\e_sqlite3.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\runtimes\win-x64\native\e_sqlite3.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\runtimes\win-arm\native\e_sqlite3.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\Gu.Wpf.Adorners.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\SQLite-net.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.batteries_v2.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.core.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.nativelibrary.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\System.Buffers.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\System.Memory.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\System.Numerics.Vectors.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\Gu.Wpf.Adorners.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\SQLite-net.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\System.Buffers.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\System.Memory.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\System.Numerics.Vectors.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\AddAccount.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\Database.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\fiveStars.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\fourStars.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\MainWindow.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\App.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\AddAccount.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\Database.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\fiveStars.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\fourStars.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\MainWindow.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.Properties.Resources.resources
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csproj.GenerateResource.cache
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csproj.CoreCompileInputs.cache
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csproj.CopyComplete
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.Form1.resources
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.Form2.resources
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\Genshin Impact Account Manager.exe.config
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\Genshin Impact Account Manager.exe
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\bin\Release\Genshin Impact Account Manager.pdb
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager_Content.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager_MarkupCompile.cache
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager_MarkupCompile.lref
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager.g.resources
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager.exe
+D:\Utenti\UranusDarkness\Desktop\Genshin\GenshinImpactAccountManager\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager.pdb
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\AddAccount.g.cs
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\Database.g.cs
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\fiveStars.g.cs
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars.g.cs
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\MainWindow.g.cs
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\App.g.cs
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager_Content.g.cs
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager_MarkupCompile.cache
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager_MarkupCompile.lref
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\AddAccount.baml
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\Database.baml
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\fiveStars.baml
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars.baml
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\MainWindow.baml
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager.g.resources
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager.pdb
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\runtimes\win-x86\native\e_sqlite3.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\runtimes\win-x64\native\e_sqlite3.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\runtimes\win-arm\native\e_sqlite3.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\Genshin Impact Account Manager.exe.config
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\Genshin Impact Account Manager.exe
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\Genshin Impact Account Manager.pdb
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\Gu.Wpf.Adorners.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLite-net.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.batteries_v2.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.core.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.nativelibrary.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Buffers.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Memory.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Numerics.Vectors.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\Gu.Wpf.Adorners.xml
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLite-net.xml
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Buffers.xml
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Memory.xml
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Numerics.Vectors.xml
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.Form1.resources
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.Form2.resources
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.Properties.Resources.resources
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csproj.GenerateResource.cache
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csproj.CoreCompileInputs.cache
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csproj.CopyComplete
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager.exe
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\runtimes\win-x86\native\e_sqlite3.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\runtimes\win-x64\native\e_sqlite3.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\runtimes\win-arm\native\e_sqlite3.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\Genshin Impact Account Manager.exe.config
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\Genshin Impact Account Manager.exe
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\Genshin Impact Account Manager.pdb
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\Gu.Wpf.Adorners.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLite-net.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.batteries_v2.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.core.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.nativelibrary.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Buffers.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Memory.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Numerics.Vectors.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\Gu.Wpf.Adorners.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLite-net.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Buffers.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Memory.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Numerics.Vectors.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\AddAccount.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Database.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fiveStars.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\MainWindow.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\App.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager_Content.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager_MarkupCompile.cache
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager_MarkupCompile.lref
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\AddAccount.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Database.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fiveStars.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\MainWindow.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager.g.resources
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.Form1.resources
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.Form2.resources
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.Properties.Resources.resources
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csproj.GenerateResource.cache
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csproj.CoreCompileInputs.cache
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csproj.CopyComplete
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager.exe
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager.pdb
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fiveStars_weapons.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fiveStars_weapons.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars_weapons.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars_weapons.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars_weapons_page2.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars_weapons_page2.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars_weapons_page3.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars_weapons_page3.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\runtimes\win-x86\native\e_sqlite3.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\runtimes\win-x64\native\e_sqlite3.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\runtimes\win-arm\native\e_sqlite3.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\Genshin Impact Account Manager.exe.config
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\Genshin Impact Account Manager.exe
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\Genshin Impact Account Manager.pdb
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\Gu.Wpf.Adorners.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLite-net.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.batteries_v2.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.core.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.nativelibrary.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Buffers.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Memory.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Numerics.Vectors.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\Gu.Wpf.Adorners.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\SQLite-net.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Buffers.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Memory.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Numerics.Vectors.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\AddAccount.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Database.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fiveStars.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fiveStars_weapons.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars_weapons.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\MainWindow.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\App.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager_Content.g.cs
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager_MarkupCompile.cache
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager_MarkupCompile.lref
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\AddAccount.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Database.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fiveStars.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fiveStars_weapons.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars_weapons.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\MainWindow.baml
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager.g.resources
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.Form1.resources
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.Form2.resources
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.Properties.Resources.resources
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csproj.GenerateResource.cache
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csproj.CoreCompileInputs.cache
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csproj.CopyComplete
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager.exe
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\Genshin Impact Account Manager.pdb
+D:\Utenti\UranusDarkness\Desktop\Genshin Impact\wroking on\nologin_genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csprojAssemblyReference.cache
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\GenshinImpactAccountManager.csprojAssemblyReference.cache
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\fiveStars_weapons.g.cs
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars_weapons.g.cs
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\fiveStars_weapons.baml
+D:\Utenti\UranusDarkness\Desktop\GitHub\C#\genshinimpactam\GenshinImpactAccountManager\obj\Release\fourStars_weapons.baml

@@ -1,0 +1,65 @@
+﻿<Window x:Class="GenshinImpactAccountManager.fiveStars_weapons"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GenshinImpactAccountManager"
+        mc:Ignorable="d"
+        Title="Select 5★" Height="450" Width="1042" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="Resources/Klee_Icon.ico"
+        xmlns:adorners="http://gu.se/Adorners">
+    <Grid Name="Weapons">
+        <Image HorizontalAlignment="Left" Height="64" Margin="105,52,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/5stars_weapons/Weapon_Amos'_Bow.png"/>
+        <CheckBox Name="AmosCheckbox" Content="Amos' Bow" HorizontalAlignment="Left" Margin="22,76,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+        <TextBox adorners:Watermark.Text="Refin. Lv." Name="AmosTextbox" IsEnabled="{Binding ElementName=AmosCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+        <Image HorizontalAlignment="Left" Height="64" Margin="105,128,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/5stars_weapons/Weapon_Aquila_Favonia.png"/>
+        <CheckBox Name="AquFavoCheckbox" Content="Aquila&#xA;Favonia" HorizontalAlignment="Left" Margin="22,140,0,0" VerticalAlignment="Top" Padding="3,-1,0,0" Width="97" Height="36"/>
+        <TextBox adorners:Watermark.Text="Refin. Lv." Name="AquFavoTextbox" IsEnabled="{Binding ElementName=AquFavoCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+        <Image HorizontalAlignment="Left" Height="64" Margin="105,206,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/5stars_weapons/Weapon_Kunwu's_Iris_Rift.png"/>
+        <CheckBox Name="KunwuCheckbox" Content="Kunwu's&#xA;Iris Rift" HorizontalAlignment="Left" Margin="22,217,0,0" VerticalAlignment="Top" Padding="3,-1,0,0" Height="40"/>
+        <TextBox adorners:Watermark.Text="Refin. Lv." Name="KunwuTextbox" IsEnabled="{Binding ElementName=KunwuCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+        <Image HorizontalAlignment="Left" Height="64" Margin="105,286,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/5stars_weapons/Weapon_Lost_Prayer_to_the_Sacred_Winds.png"/>
+        <CheckBox Name="LostPrayerCheckbox" Content="Lost Prayer&#xA;To The Sacred&#xA; Winds" HorizontalAlignment="Left" Margin="21,281,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+        <TextBox adorners:Watermark.Text="Refin. Lv." Name="LostPrayerTextbox" IsEnabled="{Binding ElementName=LostPrayerCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+        <Image HorizontalAlignment="Left" Height="64" Margin="292,128,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/5stars_weapons/Weapon_Primordial_Jade_Winged-Spear.png"/>
+        <CheckBox Name="PrimordialCheckbox" Content="Primordial Jade&#xA;Winged-Spear" HorizontalAlignment="Left" Margin="187,139,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+        <TextBox adorners:Watermark.Text="Refin. Lv." Name="PrimordialTextbox" IsEnabled="{Binding ElementName=PrimordialCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+        <Image HorizontalAlignment="Left" Height="64" Margin="292,52,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/5stars_weapons/Weapon_Wolf's_Gravestone.png"/>
+        <CheckBox Name="GravestoneCheckbox" Content="Wolf's Gravestone" HorizontalAlignment="Left" Margin="187,74,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+        <TextBox adorners:Watermark.Text="Refin. Lv." Name="GravestoneTextbox" IsEnabled="{Binding ElementName=GravestoneCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+        <Image HorizontalAlignment="Left" Height="64" Margin="292,215,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/5stars_weapons/Weapon_Skyward_Atlas.png"/>
+        <CheckBox Name="SkyAtlasCheckbox" Content="Skyward Atlas" HorizontalAlignment="Left" Margin="187,237,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+        <TextBox adorners:Watermark.Text="Refin. Lv." Name="SkyAtlasTextbox" IsEnabled="{Binding ElementName=SkyAtlasCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,259,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+        <Image HorizontalAlignment="Left" Height="64" Margin="292,288,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/5stars_weapons/Weapon_Skyward_Blade.png"/>
+        <CheckBox Name="SkyBladeCheckbox" Content="Skyward Blade" HorizontalAlignment="Left" Margin="187,310,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+        <TextBox adorners:Watermark.Text="Refin. Lv." Name="SkyBladeTextbox" IsEnabled="{Binding ElementName=SkyBladeCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,332,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+        <Image HorizontalAlignment="Left" Height="64" Margin="485,52,0,0" VerticalAlignment="Top" Width="65" Source="/Resources/5stars_weapons/Weapon_Skyward_Harp.png"/>
+        <CheckBox Name="SkyHarpCheckbox" Content="Skyward Harp" HorizontalAlignment="Left" Margin="380,74,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+        <TextBox adorners:Watermark.Text="Refin. Lv." Name="SkyHarpTextbox" IsEnabled="{Binding ElementName=SkyHarpCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="380,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+        <Image HorizontalAlignment="Left" Height="64" Margin="485,127,0,0" VerticalAlignment="Top" Width="65" Source="/Resources/5stars_weapons/Weapon_Skyward_Pride.png"/>
+        <CheckBox Name="SkyPrideCheckbox" Content="Skyward Pride" HorizontalAlignment="Left" Margin="380,149,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+        <TextBox adorners:Watermark.Text="Refin. Lv." Name="SkyPrideTextbox" IsEnabled="{Binding ElementName=SkyPrideCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="380,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+        <Image HorizontalAlignment="Left" Height="64" Margin="485,206,0,0" VerticalAlignment="Top" Width="65" Source="/Resources/5stars_weapons/Weapon_Skyward_Spine.png"/>
+        <CheckBox Name="SkySpineCheckbox" Content="Skyward Spine" HorizontalAlignment="Left" Margin="380,228,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+        <TextBox adorners:Watermark.Text="Refin. Lv." Name="SkySpineTextbox" IsEnabled="{Binding ElementName=SkySpineCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="380,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="constLevel_preview" MaxLength="1"/>
+
+        <Image HorizontalAlignment="Left" Height="64" Margin="485,288,0,0" VerticalAlignment="Top" Width="65" Source="/Resources/5stars_weapons/memoryofdust.png"/>
+        <CheckBox Name="MemoryDustCheckbox" Content="Memory of &#xa;Dust" HorizontalAlignment="Left" Margin="380,298,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+        <TextBox adorners:Watermark.Text="Refin. Lv." Name="MemoryDustTextbox" IsEnabled="{Binding ElementName=MemoryDustCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="380,332,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="constLevel_preview" MaxLength="1"/>
+
+        <Button Content="Characters" HorizontalAlignment="Left" Margin="33,382,0,0" VerticalAlignment="Top" Width="70" Click="Characters_Click" RenderTransformOrigin="0.451,-0.834"/>
+        <Button Content="Weapons" IsEnabled="False" HorizontalAlignment="Left" Margin="126,382,0,0" VerticalAlignment="Top" Width="70"/>
+
+        <Button Content="Cancel" HorizontalAlignment="Left" Margin="962,387,0,0" VerticalAlignment="Top" Width="58" Click="Cancel_Click"/>
+        <Button Content="Ok" HorizontalAlignment="Left" Margin="875,387,0,0" VerticalAlignment="Top" Width="58" Click="Ok_Click"/>
+    </Grid>
+</Window>

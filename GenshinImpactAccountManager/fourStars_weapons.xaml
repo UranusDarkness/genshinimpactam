@@ -1,0 +1,237 @@
+﻿<Window x:Class="GenshinImpactAccountManager.fourStars_weapons"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GenshinImpactAccountManager"
+        mc:Ignorable="d"
+        Title="Select 4★" Height="455.882" Width="1015.327" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Icon="Resources/Klee_Icon.ico"
+        xmlns:adorners="http://gu.se/Adorners">
+    <Grid>
+        <TabControl Name="WeaponsTabs">
+            <TabItem Header="Page 1">
+                <Grid Margin="0,-20,0,0">
+                    <Image HorizontalAlignment="Left" Height="64" Margin="105,52,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Weapon_Alley_Hunter.png"/>
+                    <CheckBox Name="AlleyCheckbox" Content="Alley Hunter" HorizontalAlignment="Left" Margin="22,76,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="AlleyTextbox" IsEnabled="{Binding ElementName=AlleyCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="21,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="105,137,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Blackcliff_Amulet.png"/>
+                    <CheckBox Name="BCliffAmuCheckbox" Content="Blackcliff&#xA;Amulet" HorizontalAlignment="Left" Margin="22,140,0,0" VerticalAlignment="Top" Padding="3,-1,0,0" Width="97" Height="36"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="BCliffAmuTextbox" IsEnabled="{Binding ElementName=BCliffAmuCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="105,206,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Blackcliff_Longsword.png"/>
+                    <CheckBox Name="BCliffLongSwCheckbox" Content="Blackcliff&#xA;Longsword" HorizontalAlignment="Left" Margin="22,217,0,0" VerticalAlignment="Top" Padding="3,-1,0,0" Height="40"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="BCliffLongSwTextbox" IsEnabled="{Binding ElementName=BCliffLongSwCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="105,286,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Blackcliff_Pole.png"/>
+                    <CheckBox Name="BCliffPoleCheckbox" Content="Blackcliff&#xA;Pole" HorizontalAlignment="Left" Margin="21,294,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="BCliffPoleTextbox" IsEnabled="{Binding ElementName=BCliffPoleCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="292,52,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Blackcliff_Slasher.png"/>
+                    <CheckBox Name="BCliffSlasherCheckbox" Content="Blackcliff&#xA;Slasher" HorizontalAlignment="Left" Margin="187,65,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="BCliffSlasherTextbox" IsEnabled="{Binding ElementName=BCliffSlasherCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="292,128,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Blackcliff_Warbow.png"/>
+                    <CheckBox Name="BCliffWarbowCheckbox" Content="Blackcliff&#xA;Warbow" HorizontalAlignment="Left" Margin="187,139,0,0" VerticalAlignment="Top" Padding="3,-1,0,0" Width="73"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="BCliffWarbowTextbox" IsEnabled="{Binding ElementName=BCliffWarbowCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="292,211,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Compound_Bow.png"/>
+                    <CheckBox Name="CompBowCheckbox" Content="Compound Bow" HorizontalAlignment="Left" Margin="187,228,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="CompBowTextbox" IsEnabled="{Binding ElementName=CompBowCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="292,288,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Crescent_Pike.png"/>
+                    <CheckBox Name="CrescPikeCheckbox" Content="Crescent Pike" HorizontalAlignment="Left" Margin="187,310,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="CrescPikeTextbox" IsEnabled="{Binding ElementName=CrescPikeCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,332,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="485,52,0,0" VerticalAlignment="Top" Width="65" Source="/Resources/4stars_weapons/Weapon_Deathmatch.png"/>
+                    <CheckBox Name="DeathmatchCheckbox" Content="Deathmatch" HorizontalAlignment="Left" Margin="380,74,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="DeathmatchTextbox" IsEnabled="{Binding ElementName=DeathmatchCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="380,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="485,126,0,0" VerticalAlignment="Top" Width="65" Source="/Resources/4stars_weapons/Weapon_Dragons_Bane.png"/>
+                    <CheckBox Name="DraBaneCheckbox" Content="Dragon's Bane" HorizontalAlignment="Left" Margin="380,149,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="DraBaneTextbox" IsEnabled="{Binding ElementName=DraBaneCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="380,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="62" Margin="485,206,0,0" VerticalAlignment="Top" Width="62" Source="/Resources/4stars_weapons/Weapon_Eye_of_Perception.png"/>
+                    <CheckBox Name="EyePercCheckbox" Content="Eye of&#xA;Perception" HorizontalAlignment="Left" Margin="380,214,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="EyePercTextbox" IsEnabled="{Binding ElementName=EyePercCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="380,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="constLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="70" Margin="485,287,0,0" VerticalAlignment="Top" Width="70" Source="/Resources/4stars_weapons/Favonius_Codex.png"/>
+                    <CheckBox Name="FavoCodexCheckbox" Content="Favonius Codex" HorizontalAlignment="Left" Margin="380,310,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="FavoCodexTextbox" IsEnabled="{Binding ElementName=FavoCodexCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="380,332,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="673,52,0,0" VerticalAlignment="Top" Width="65" Source="/Resources/4stars_weapons/Favonius_Greatsword.png"/>
+                    <CheckBox Name="FavoGreatSwCheckbox" Content="Favonius&#xA;Greatsword" HorizontalAlignment="Left" Margin="576,60,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="FavoGreatSwTextbox" IsEnabled="{Binding ElementName=FavoGreatSwCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="576,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="673,128,0,0" VerticalAlignment="Top" Width="65" Source="/Resources/4stars_weapons/Favonius_Lance.png"/>
+                    <CheckBox Name="FavoLanceCheckbox" Content="Favonius Lance" HorizontalAlignment="Left" Margin="576,149,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="FavoLanceTextbox" IsEnabled="{Binding ElementName=FavoLanceCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="576,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="673,211,0,0" VerticalAlignment="Top" Width="65" Source="Resources/4stars_weapons/Favonius_Sword.png"/>
+                    <CheckBox x:Name="FavoSwordCheckbox" Content="Favonius Sword" HorizontalAlignment="Left" Margin="576,233,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." x:Name="FavoSwordTextbox" IsEnabled="{Binding IsChecked, ElementName=FavoSwordCheckbox}" HorizontalAlignment="Left" Margin="576,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="62" Margin="673,287,0,0" VerticalAlignment="Top" Width="62" Source="Resources/4stars_weapons/Favonius_Warbow.png"/>
+                    <CheckBox x:Name="FavoWarbowCheckbox" Content="Favonius&#xA;Warbow" HorizontalAlignment="Left" Margin="576,294,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." x:Name="FavoWarbowTextbox" IsEnabled="{Binding IsChecked, ElementName=FavoWarbowCheckbox}" HorizontalAlignment="Left" Margin="576,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="859,52,0,0" VerticalAlignment="Top" Width="65" Source="Resources/4stars_weapons/Iron_Sting.png"/>
+                    <CheckBox x:Name="IronStingCheckbox" Content="Iron Sting" HorizontalAlignment="Left" Margin="762,74,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." x:Name="IronStingTextbox" IsEnabled="{Binding IsChecked, ElementName=IronStingCheckbox}" HorizontalAlignment="Left" Margin="762,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="859,128,0,0" VerticalAlignment="Top" Width="65" Source="Resources/4stars_weapons/Lions_Roar.png"/>
+                    <CheckBox x:Name="LionRoarCheckbox" Content="Lion's Roar" HorizontalAlignment="Left" Margin="762,149,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." x:Name="LionRoarTextbox" IsEnabled="{Binding IsChecked, ElementName=LionRoarCheckbox}" HorizontalAlignment="Left" Margin="762,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="859,211,0,0" VerticalAlignment="Top" Width="65" Source="Resources/4stars_weapons/Lithic_Blade.png"/>
+                    <CheckBox x:Name="LithicBladeCheckbox" Content="Lithic Blade" HorizontalAlignment="Left" Margin="762,233,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." x:Name="LithicBladeTextbox" IsEnabled="{Binding IsChecked, ElementName=LithicBladeCheckbox}" HorizontalAlignment="Left" Margin="762,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="859,287,0,0" VerticalAlignment="Top" Width="65" Source="Resources/4stars_weapons/Lithic_Spear.png"/>
+                    <CheckBox x:Name="LithicSpearCheckbox" Content="Lithic Spear" HorizontalAlignment="Left" Margin="762,308,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." x:Name="LithicSpearTextbox" IsEnabled="{Binding IsChecked, ElementName=LithicSpearCheckbox}" HorizontalAlignment="Left" Margin="762,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Button Content="Characters" HorizontalAlignment="Left" Margin="33,382,0,0" VerticalAlignment="Top" Width="70" Click="Characters_Click" RenderTransformOrigin="0.451,-0.834"/>
+                    <Button Content="Weapons" IsEnabled="False" HorizontalAlignment="Left" Margin="126,382,0,0" VerticalAlignment="Top" Width="70"/>
+
+                    <Button Content="Cancel" HorizontalAlignment="Left" Margin="929,382,0,0" VerticalAlignment="Top" Width="58" Click="Cancel_Click"/>
+                    <Button Content="Ok" HorizontalAlignment="Left" Margin="842,382,0,0" VerticalAlignment="Top" Width="58" Click="Ok_Click"/>
+                </Grid>
+                                       
+            </TabItem>
+            <TabItem Header="Page 2">
+                <Grid Margin="0,-20,0,0">
+                    <Image HorizontalAlignment="Left" Height="64" Margin="105,52,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Mappa_Mare.png"/>
+                    <CheckBox Name="MappaMareCheckbox" Content="Mappa&#xa;Mare" HorizontalAlignment="Left" Margin="22,60,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="MappaMareTextbox" IsEnabled="{Binding ElementName=MappaMareCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="21,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="105,137,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Weapon_Prototype_Aminus.png"/>
+                    <CheckBox Name="ProtoAmiCheckbox" Content="Prototype&#xA;Aminus" HorizontalAlignment="Left" Margin="22,140,0,0" VerticalAlignment="Top" Padding="3,-1,0,0" Width="97" Height="36"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="ProtoAmiTextbox" IsEnabled="{Binding ElementName=ProtoAmiCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="105,206,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Prototype_Crescent.png"/>
+                    <CheckBox Name="ProtoCrescCheckbox" Content="Prototype&#xA;Crescent" HorizontalAlignment="Left" Margin="22,217,0,0" VerticalAlignment="Top" Padding="3,-1,0,0" Height="40"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="ProtoCrescTextbox" IsEnabled="{Binding ElementName=ProtoCrescCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="105,286,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Weapon_Prototype_Grudge.png"/>
+                    <CheckBox Name="ProtoGrudgeCheckbox" Content="Prototype&#xA;Grudge" HorizontalAlignment="Left" Margin="21,294,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="ProtoGrudgeTextbox" IsEnabled="{Binding ElementName=ProtoGrudgeCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="76" Margin="284,47,0,0" VerticalAlignment="Top" Width="76" Source="/Resources/4stars_weapons/Prototype_Malice.png"/>
+                    <CheckBox Name="ProtoMaliceCheckbox" Content="Prototype&#xA;Malice" HorizontalAlignment="Left" Margin="187,60,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="ProtoMaliceTextbox" IsEnabled="{Binding ElementName=ProtoMaliceCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="292,128,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Prototype_Rancour.png"/>
+                    <CheckBox Name="ProtoRancourCheckbox" Content="Prototype&#xA;Rancour" HorizontalAlignment="Left" Margin="187,139,0,0" VerticalAlignment="Top" Padding="3,-1,0,0" Width="73"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="ProtoRancourTextbox" IsEnabled="{Binding ElementName=ProtoRancourCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="62" Margin="292,211,0,0" VerticalAlignment="Top" Width="62" Source="/Resources/4stars_weapons/Rainslasher.png"/>
+                    <CheckBox Name="RainslasherCheckbox" Content="Rainslasher" HorizontalAlignment="Left" Margin="187,228,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="RainslasherTextbox" IsEnabled="{Binding ElementName=RainslasherCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="292,288,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Royal_Bow.png"/>
+                    <CheckBox Name="RoyalBowCheckbox" Content="Royal Bow" HorizontalAlignment="Left" Margin="187,310,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="RoyalBowTextbox" IsEnabled="{Binding ElementName=RoyalBowCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,332,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="485,52,0,0" VerticalAlignment="Top" Width="65" Source="/Resources/4stars_weapons/Weapon_Royal_Greatsword.png"/>
+                    <CheckBox Name="RoyalGreatSwCheckbox" Content="Royal&#xA;Greatsword" HorizontalAlignment="Left" Margin="380,60,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="RoyalGreatSwTextbox" IsEnabled="{Binding ElementName=RoyalGreatSwCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="380,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="485,126,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Royal_Grimoire.png"/>
+                    <CheckBox Name="RoyalGrimoCheckbox" Content="Royal Grimoire" HorizontalAlignment="Left" Margin="380,149,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="RoyalGrimoTextbox" IsEnabled="{Binding ElementName=RoyalGrimoCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="380,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="62" Margin="485,206,0,0" VerticalAlignment="Top" Width="62" Source="/Resources/4stars_weapons/Royal_Longsword.png"/>
+                    <CheckBox Name="RoyalLongSwCheckbox" Content="Royal&#xA;Longsword" HorizontalAlignment="Left" Margin="380,214,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="RoyalLongSwTextbox" IsEnabled="{Binding ElementName=RoyalLongSwCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="380,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="constLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="487,288,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Rust.png"/>
+                    <CheckBox Name="RustCheckbox" Content="Rust" HorizontalAlignment="Left" Margin="380,310,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="RustTextbox" IsEnabled="{Binding ElementName=RustCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="380,332,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="673,52,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Sacrificial_Bow.png"/>
+                    <CheckBox Name="SacriBowCheckbox" Content="Sacrificial&#xA;Bow" HorizontalAlignment="Left" Margin="576,60,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="SacriBowTextbox" IsEnabled="{Binding ElementName=SacriBowCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="576,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="673,128,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Sacrificial_Fragments.png"/>
+                    <CheckBox Name="SacriFragCheckbox" Content="Sacrificial&#xA;Fragments" HorizontalAlignment="Left" Margin="576,135,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="SacriFragTextbox" IsEnabled="{Binding ElementName=SacriFragCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="576,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="673,211,0,0" VerticalAlignment="Top" Width="65" Source="Resources/4stars_weapons/Weapon_Sacrificial_Greatsword.png"/>
+                    <CheckBox x:Name="SacriGreatSwCheckbox" Content="Sacrificial&#xA;Greatsword" HorizontalAlignment="Left" Margin="576,219,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." x:Name="SacriGreatSwTextbox" IsEnabled="{Binding IsChecked, ElementName=SacriGreatSwCheckbox}" HorizontalAlignment="Left" Margin="576,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="62" Margin="673,287,0,0" VerticalAlignment="Top" Width="62" Source="Resources/4stars_weapons/Sacrificial_Sword.png"/>
+                    <CheckBox x:Name="SacriSwordCheckbox" Content="Sacrificial&#xA;Sword" HorizontalAlignment="Left" Margin="576,294,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." x:Name="SacriSwordTextbox" IsEnabled="{Binding IsChecked, ElementName=SacriSwordCheckbox}" HorizontalAlignment="Left" Margin="576,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="859,52,0,0" VerticalAlignment="Top" Width="65" Source="Resources/4stars_weapons/Weapon_Serpent_Spine.png"/>
+                    <CheckBox x:Name="SerpSpineCheckbox" Content="Serpent Spine" HorizontalAlignment="Left" Margin="762,74,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." x:Name="SerpSpineTextbox" IsEnabled="{Binding IsChecked, ElementName=SerpSpineCheckbox}" HorizontalAlignment="Left" Margin="762,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="859,128,0,0" VerticalAlignment="Top" Width="65" Source="Resources/4stars_weapons/Solar_Pearl.png"/>
+                    <CheckBox x:Name="SolarPearlCheckbox" Content="Solar Pearl" HorizontalAlignment="Left" Margin="762,149,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." x:Name="SolarPearlTextbox" IsEnabled="{Binding IsChecked, ElementName=SolarPearlCheckbox}" HorizontalAlignment="Left" Margin="762,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="859,211,0,0" VerticalAlignment="Top" Width="65" Source="Resources/4stars_weapons/Sword_of_Descension.png"/>
+                    <CheckBox x:Name="SwordDescCheckbox" Content="Sword of&#xA;Descension" HorizontalAlignment="Left" Margin="762,219,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." x:Name="SwordDescTextbox" IsEnabled="{Binding IsChecked, ElementName=SwordDescCheckbox}" HorizontalAlignment="Left" Margin="762,255,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="859,287,0,0" VerticalAlignment="Top" Width="65" Source="Resources/4stars_weapons/Weapon_The_Alley_Flash.png"/>
+                    <CheckBox x:Name="AlleyFlashCheckbox" Content="The Alley&#xa;Flash" HorizontalAlignment="Left" Margin="762,294,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." x:Name="AlleyFlashTextbox" IsEnabled="{Binding IsChecked, ElementName=AlleyFlashCheckbox}" HorizontalAlignment="Left" Margin="762,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Button Content="Characters" HorizontalAlignment="Left" Margin="33,382,0,0" VerticalAlignment="Top" Width="70" Click="Characters_Click" RenderTransformOrigin="0.451,-0.834"/>
+                    <Button Content="Weapons" IsEnabled="False" HorizontalAlignment="Left" Margin="126,382,0,0" VerticalAlignment="Top" Width="70"/>
+
+                    <Button Content="Cancel" HorizontalAlignment="Left" Margin="929,382,0,0" VerticalAlignment="Top" Width="58" Click="Cancel_Click"/>
+                    <Button Content="Ok" HorizontalAlignment="Left" Margin="842,382,0,0" VerticalAlignment="Top" Width="58" Click="Ok_Click"/>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Page 3">
+                <Grid Margin="0,-20,0,0">
+                    <Image HorizontalAlignment="Left" Height="64" Margin="105,52,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Weapon_The_Bell.png"/>
+                    <CheckBox Name="TheBellCheckbox" Content="The Bell" HorizontalAlignment="Left" Margin="22,76,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="TheBellTextbox" IsEnabled="{Binding ElementName=TheBellCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="21,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="105,137,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Weapon_The_Black_Sword.png"/>
+                    <CheckBox Name="BlackSwordCheckbox" Content="The Black&#xA;Sword" HorizontalAlignment="Left" Margin="22,140,0,0" VerticalAlignment="Top" Padding="3,-1,0,0" Width="97" Height="36"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="BlackSwordTextbox" IsEnabled="{Binding ElementName=BlackSwordCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="105,206,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Weapon_The_Flute.png"/>
+                    <CheckBox Name="TheFluteCheckbox" Content="The Flute" HorizontalAlignment="Left" Margin="22,226,0,0" VerticalAlignment="Top" Padding="3,-1,0,0" Height="19"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="TheFluteTextbox" IsEnabled="{Binding ElementName=TheFluteCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="105,286,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/The_Stringless.png"/>
+                    <CheckBox Name="StringlessCheckbox" Content="The&#xa;Stringless" HorizontalAlignment="Left" Margin="21,294,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="StringlessTextbox" IsEnabled="{Binding ElementName=StringlessCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="22,330,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="64" Margin="301,52,0,0" VerticalAlignment="Top" Width="64" Source="/Resources/4stars_weapons/Weapon_The_Viridescent_Hunt.png"/>
+                    <CheckBox Name="VirideHuntCheckbox" Content="The Viridescent&#xA;Hunt" HorizontalAlignment="Left" Margin="187,65,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="VirideHuntTextbox" IsEnabled="{Binding ElementName=VirideHuntCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,96,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+
+                    <Image HorizontalAlignment="Left" Height="60" Margin="301,130,0,0" VerticalAlignment="Top" Width="60" Source="/Resources/4stars_weapons/Weapon_The_Widsith.png"/>
+                    <CheckBox Name="WidsithCheckbox" Content="The Widsith" HorizontalAlignment="Left" Margin="187,151,0,0" VerticalAlignment="Top" Padding="3,-1,0,0" Width="88"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="WidsithTextbox" IsEnabled="{Binding ElementName=WidsithCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,171,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="62" Margin="292,211,0,0" VerticalAlignment="Top" Width="62" Source="/Resources/4stars_weapons/Weapon_Whiteblind.png"/>
+                    <CheckBox Name="WhiteblindCheckbox" Content="Whiteblind" HorizontalAlignment="Left" Margin="187,228,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="WhiteblindTextbox" IsEnabled="{Binding ElementName=WhiteblindCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,250,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Image HorizontalAlignment="Left" Height="60" Margin="292,290,0,0" VerticalAlignment="Top" Width="60" Source="/Resources/4stars_weapons/Wine_and_Song.png"/>
+                    <CheckBox Name="WineSongCheckbox" Content="Wine and&#xa;Song" HorizontalAlignment="Left" Margin="187,296,0,0" VerticalAlignment="Top" Padding="3,-1,0,0"/>
+                    <TextBox adorners:Watermark.Text="Refin. Lv." Name="WineSongTextbox" IsEnabled="{Binding ElementName=WineSongCheckbox, Path=IsChecked}" HorizontalAlignment="Left" Margin="187,332,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="58" PreviewTextInput="refinLevel_preview" MaxLength="1"/>
+
+                    <Button Content="Characters" HorizontalAlignment="Left" Margin="33,382,0,0" VerticalAlignment="Top" Width="70" Click="Characters_Click" RenderTransformOrigin="0.451,-0.834"/>
+                    <Button Content="Weapons" IsEnabled="False" HorizontalAlignment="Left" Margin="126,382,0,0" VerticalAlignment="Top" Width="70"/>
+
+                    <Button Content="Cancel" HorizontalAlignment="Left" Margin="929,382,0,0" VerticalAlignment="Top" Width="58" Click="Cancel_Click"/>
+                    <Button Content="Ok" HorizontalAlignment="Left" Margin="842,382,0,0" VerticalAlignment="Top" Width="58" Click="Ok_Click"/>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        
+
+    </Grid>
+</Window>
